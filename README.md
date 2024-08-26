@@ -4,6 +4,6 @@
 
 ## Fav Sites
 
--RIT
--Google
--Bing
+- RIT
+- Google
+- Bing
