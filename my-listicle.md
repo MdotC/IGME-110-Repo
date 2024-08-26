@@ -1,4 +1,4 @@
-# **Top Five search results for milk**
+# Top Five search results for milk
 ## Now excluding advertisements
 1. [Wikipedia article about milk](https://en.wikipedia.org/wiki/Milk)
 
