@@ -17,4 +17,4 @@
 
 # Images and Stuff
 
-![] (md-images/red.jfjf)
+![](md-images/red.jfjf)
